@@ -1,7 +1,7 @@
 ### 👋 yooo! I'm Iago Menezes. 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IagoMenezes555)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:iagomenezes555@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iagomenezes555@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iagomenezes37)
 
 ![Estatísticas do GitHub de Iago](https://github-readme-stats.vercel.app/api?username=IagoMenezes555&show_icons=true&theme=radical)  
