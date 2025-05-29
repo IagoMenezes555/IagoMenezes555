@@ -4,8 +4,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somentekiam@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kiammota)
 
-![Iago's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiamMota&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiamMota&layout=compact&theme=radical)
+![Estatísticas do GitHub de Iago](https://github-readme-stats.vercel.app/api?username=IagoMenezes555&show_icons=true&theme=radical)  
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoMenezes555&layout=compact&theme=radical)
 
 ## Tecnologias que aprecio:
 
@@ -18,6 +18,7 @@
   <img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
 </div>
+
 
 ### ⚡ Sobre mim
 
