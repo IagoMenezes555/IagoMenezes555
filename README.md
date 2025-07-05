@@ -3,7 +3,7 @@
 Desenvolvedor Frontend & Mobile em formação, apaixonado por tecnologia e interfaces bem construídas.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IagoMenezes555)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iagomenezes555@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iagomenezes555@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iagomenezes37)
 
 ![Estatísticas do GitHub de Iago](https://github-readme-stats.vercel.app/api?username=IagoMenezes555&show_icons=true&theme=radical)  
@@ -19,8 +19,8 @@ Desenvolvedor Frontend & Mobile em formação, apaixonado por tecnologia e inter
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-
 
 ### ⚡ Sobre mim
 
